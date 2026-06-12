@@ -1,0 +1,27 @@
+# FACT SHEET — Humunculous public window
+**Verified facts only. The agent may state these; anything beyond them, it says the window does not hold. Drafted by Boss 2026-06-10 from locked canon (launch_copy, CV, canon_corrections §§1-14). Status: LOCKED 2026-06-10 (both canon flags resolved by Freddy: commercials 1990–1997; Ubu = 2009, Ubu Cornudo).**
+
+## Identity
+Freddy Manuel Roldán Rivero, b. 23 November 1987, Caracas, Venezuela. Luso-Venezuelan. Visual and multimedia artist and AI engineer. Lives and works in Cacém, Sintra, Portugal. Contact: info@freddymanuel.com. Languages: Portuguese and Spanish (native), English (fluent), Italian (B2), French (A2).
+
+## Chronology — performance and formation
+- 1990s: child actor in Venezuelan national television advertising. First commercial: Kellogg's gelatinas Sonrisa (recorded at age three — his first paid work). Also Frito-Lay TazMania "Vuelatazos" (Concept Publicidad, 1995) and multiple campaigns for the clothing brand Graffiti (his last commercial). The 35mm reel was recovered in 2026.
+- 1997–1999: El Sistema, Núcleo San Agustín, Caracas — choir under Irina Capriles, voice tutelage of Tupac Amaru Rivas, one year of classical viola. Annual vocal soloist (Herod) in the Cantata Navideña, 1997–1999. Sang in the Cantata Criolla (Antonio Estévez), Teatro Teresa Carreño, Sala Ríos Reyna, 12 February 1999, conducted by Felipe Izcaray — his name printed in the programme of the Niños Cantores de Caracas.
+- 2003: arrived in Portugal, age fifteen.
+- 2003–2004: painted four azulejo tiles (Article 21, Universal Declaration of Human Rights) for Françoise Schein's Inscrire/Inscrever os Direitos do Homem mural, Escola de Alcabideche — permanently installed. Wrote the play *O Telescópio na Casa da Lua* (2004) for the Ler-a-par youth reading club, performed at Alcoitão Hospital. The play came from the Moon dream (10/01/2003).
+- 2004–2007: Pequenos Cantores do Estoril (Mestrina Maria Repas). Admitted by public audition to the Conservatório Nacional de Música de Lisboa, Voice/Tenor class; attended one year. c. 2005–06: chorister in a multi-choir Christmas gala with live orchestra, Grande Auditório, Centro Cultural de Belém, Lisbon.
+- 2008–2013: BA in Visual Arts and Multimedia, University of Évora (graduated 12 September 2013). 2011: *Expensive Title (True Tales)*, video-performance, II Mostra de Vídeo-Performance, 8th Festival Escrita na Paisagem, Évora (curated by Olga Moreira; artistic direction José Alberto Ferreira). 2009: King Ubu in *Ubu Cornudo*, an adaptation of Alfred Jarry's *Ubu Roi* (Grupo TEIA, Évora) — his last public stage performance to date. 2012: *Internércia*, 48-hour performance and two-channel video installation, final degree project supervised by Claudia Giannetti; publicly endorsed in person by Joan Fontcuberta at its presentation (relayed fact, never quote him directly). The 48 hours were recorded as silent video; that documentation was later lost.
+- 2014–2016: Dubai — waited tables at the JW Marriott Marquis, rising to Team Leader. 2014: *Nepal*, photographic series (Kathmandu Valley, Pokhara, Chitwan). 2015: *Cosmopolitical City*, 24 works in toner on watercolour paper (toner found at Dragon Mart; domestic-oven heat-fixing method), exhibited at Latina Middle East festival 2016, curated by Mariana Turcho; works in private collections in Portugal and the UAE. 2015: *Park*, commercial commission — illustrations on frosted glass for the hotel's rooftop lounge.
+- 2019 – May 2024: five years as a Trust & Safety content moderator for YouTube's Spanish-language market. This experience grounds his thesis: the truth of a video is rarely its subject; it is the fact that the video exists — who made it, why, and what they gain.
+- 2024: AI Engineering bootcamp, Ironhack, Lisbon (Sept–Dec). Final project *Diaries of the Upheaval* (conversational RAG agent on Zelda: Tears of the Kingdom lore, cloned voice) won the Hackshow. It is an engineering credential, not an artwork.
+- 2025–present: *Coro Interno*, immersive installation, in development (the idea began in September 2025). First visual documentation expected August 2026.
+- 2025–present: *Cromática, Diaspórica y Arrecha!* — toner and heat on watercolour paper, cut and recomposed. Began with a piece made for his mother (CDA001, held in the family). Method in his words: "I start with a vision and the piece develops on its own." *Caracas Nocturna* is its subseries: ten square toner base pieces. First piece in a private collection.
+- In progress: *Internércia*, a book, written in Portuguese and Spanish at once. The essay *A Spec Sheet* (2026, on freddymanuel.com/writing) is its first published piece.
+- Humunculous: an entity Freddy is building out of himself — a repository fed without end. The chatbot is a window into it, not the entity.
+
+## Family (public ceiling)
+His father was a musician, a vibraphonist — Freddy grew up around the bars, concerts and parties of his father and the musicians he played with, and appears with him in two published dreams (the Moon dream, the meadow dream). Nothing further about the family is in this window. His mother appears in the CDA origin story (she pointed at the gaps; "you don't have a surgeon's hand") and calls him "gordo" in the Moon dream.
+
+---
+
+*Flags resolved 2026-06-10: commercials 1990–1997 (character bible "ages 3–18" was inflated — correct on the Humunculus side); Ubu = 2009, "Ubu Cornudo" (CV had 2011/"Ubu Roi" — corrected via CC).*

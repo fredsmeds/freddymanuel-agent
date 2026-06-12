@@ -1,0 +1,37 @@
+# render.yaml — Humunculous public agent (W3). Render Blueprint.
+#
+# Deploy: in the Render dashboard, "New +" → "Blueprint" → connect this repo.
+# Render reads this file and creates the web service. Then, in the service's
+# Environment tab, paste the two secret keys (they are sync:false — NEVER in the repo):
+#   ANTHROPIC_API_KEY   (console.anthropic.com API key — generation, Claude Sonnet 4.6)
+#   OPENAI_API_KEY      (OpenAI key — embeddings, text-embedding-3-small)
+#
+# The corpus is the committed chroma_store/ (deterministic). It is NOT rebuilt on deploy;
+# rebuild locally with `python build_corpus.py` whenever the corpus changes, then commit.
+
+services:
+  - type: web
+    name: freddymanuel-agent
+    runtime: python
+    plan: starter            # free spins down after ~15 min idle (cold starts); starter stays warm
+    region: frankfurt        # closest Render region to PT visitors
+    branch: main
+    buildCommand: pip install -r backend/requirements.txt
+    # Run from backend/ so `app:app` imports and __file__-relative paths (chroma_store/, corpus/) resolve.
+    # --proxy-headers + --forwarded-allow-ips lets uvicorn trust Render's proxy so the rate limiter
+    # sees the real client IP (the app also reads X-Forwarded-For directly as a belt-and-suspenders).
+    startCommand: cd backend && uvicorn app:app --host 0.0.0.0 --port $PORT --proxy-headers --forwarded-allow-ips='*'
+    healthCheckPath: /health
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: PYTHON_VERSION
+        value: "3.12.13"
+      # Per-IP rate limit (slowapi). Default in code is 20/10 minutes; raise here if needed.
+      # - key: AGENT_RATE_LIMIT
+      #   value: "20/10 minutes"
+      # Extra exact CORS origins, comma-separated (the *.pages.dev preview is already allowed by regex).
+      # - key: EXTRA_ALLOWED_ORIGINS
+      #   sync: false
